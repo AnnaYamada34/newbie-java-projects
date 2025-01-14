@@ -1,0 +1,7 @@
+public class PrintNextLine {
+    public static void main(String[] args) {
+     //using println , it will print the string on the line after per line instead of displaying it consecutively . If my understanding was right
+        System.out.println("This is the first line.");
+        System.out.println("This is printed on the next line.");
+    }
+}
